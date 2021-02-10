@@ -107,7 +107,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"openWebsite",
+                 "name":"playAudio",
                  "type":"string",
                  "value":"https:\/\/www.youtube.com\/embed\/ITva2QqsHKg?autoplay=1&start=6"
                 }],
