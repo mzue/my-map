@@ -102,7 +102,7 @@
                 {
                  "name":"openWebsitePolicy ",
                  "type":"string",
-                 "value":"fullscreen"
+                 "value":"autoplay"
                 }],
          "type":"tilelayer",
          "visible":true,
