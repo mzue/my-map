@@ -120,7 +120,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"Einf\u00fchrung TVD Schafe & Ziegen.m4a"
+                 "value":".\/music\/Einf\u00fchrung TVD Schafe & Ziegen.m4a"
                 }],
          "type":"tilelayer",
          "visible":true,
